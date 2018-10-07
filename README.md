@@ -1,4 +1,4 @@
-[![webboard.pl - Polski support MyBB](https://mybboard.pl/images/mybbpl/logo.png "webboard - Polski support MyBB")](http://mybboard.pl "webboard - Polski support MyBB")
+[![webboard.pl - Polski support MyBB](https://webboard.pl/images/mybbpl/logo_new.png "webboard - Polski support MyBB")](http://mybboard.pl "webboard - Polski support MyBB")
 
 # Groupimage to label text
 
